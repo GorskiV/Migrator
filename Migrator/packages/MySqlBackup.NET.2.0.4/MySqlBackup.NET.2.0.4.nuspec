@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MySqlBackup.NET</id>
+    <version>2.0.4</version>
+    <title>MySqlBakcup.NET</title>
+    <authors>adriancs</authors>
+    <owners>adriancs</owners>
+    <licenseUrl>https://mysqlbackupnet.codeplex.com/license</licenseUrl>
+    <projectUrl>https://mysqlbackupnet.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A tool to backup and restore MySQL database in C#/VB.NET/ASP.NET.</description>
+    <summary>A tool to backup and restore MySQL database in C#/VB.NET/ASP.NET.</summary>
+    <releaseNotes>- Remove "SET GLOBAL max_allowed_packet". It will take effect on new connection, not on current.
+- Clean up. Remove old and inappropriate IntelliSense.
+- Minor update.</releaseNotes>
+    <copyright>Released to Public Domain</copyright>
+    <tags>MySql Backup Restore Export Import C# VB.NET ASP.NET</tags>
+    <dependencies>
+      <dependency id="MySql.ConnectorNET.Data" version="6.8.3.2" />
+    </dependencies>
+  </metadata>
+</package>

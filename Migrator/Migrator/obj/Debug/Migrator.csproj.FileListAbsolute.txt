@@ -1,0 +1,72 @@
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\bin\Debug\Migrator.exe.config
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\bin\Debug\Migrator.exe
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\bin\Debug\Migrator.pdb
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.frmGlavna.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.exe
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.pdb
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.frmIzvorniPosluzitelj.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.frmPodaciZaSpajanjeCiljniPosluzitelj.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Migrator\Migrator\obj\Debug\Migrator.PrikazTablica.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\bin\Debug\Migrator.exe.config
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.exe
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\bin\Debug\Migrator.exe
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\bin\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.frmGlavna.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.frmIzvorniPosluzitelj.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.frmPodaciZaSpajanjeCiljniPosluzitelj.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.PrikazTablica.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\bin\Debug\MySql.Data.dll
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\bin\Debug\MySqlBackup.dll
+C:\Users\Goran\Desktop\vjezbanje\Migrator\Migrator\obj\Debug\Migrator.PrikazNakonMigracije.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\bin\Debug\Migrator.exe.config
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.exe
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.frmGlavna.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.frmIzvorniPosluzitelj.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.frmPodaciZaSpajanjeCiljniPosluzitelj.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.PrikazNakonMigracije.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.PrikazTablica.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+C:\Users\Goran\Desktop\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+C:\Users\Goran\Desktop\Migrator\Migrator\bin\Debug\Migrator.exe
+C:\Users\Goran\Desktop\Migrator\Migrator\bin\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\Migrator\Migrator\bin\Debug\MySql.Data.dll
+C:\Users\Goran\Desktop\Migrator\Migrator\bin\Debug\MySqlBackup.dll
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\bin\Debug\Migrator.exe.config
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.exe
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\bin\Debug\Migrator.exe
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\bin\Debug\Migrator.pdb
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\bin\Debug\MySql.Data.dll
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\bin\Debug\MySqlBackup.dll
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.frmGlavna.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.frmIzvorniPosluzitelj.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.frmPodaciZaSpajanjeCiljniPosluzitelj.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.PrikazNakonMigracije.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.PrikazTablica.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+C:\Users\Goran\Desktop\predaja\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\bin\Debug\Migrator.exe.config
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.pdb
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\bin\Debug\Migrator.exe
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\bin\Debug\Migrator.pdb
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\bin\Debug\MySql.Data.dll
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\bin\Debug\MySqlBackup.dll
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.csprojResolveAssemblyReference.cache
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.frmGlavna.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.frmIzvorniPosluzitelj.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.frmPodaciZaSpajanjeCiljniPosluzitelj.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.PrikazNakonMigracije.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.PrikazTablica.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.Properties.Resources.resources
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.csproj.GenerateResource.Cache
+D:\FAKS\3. TRECA GODINA\Završni rad\Konferencija (skracena eng verzija)\Migrator\Migrator\obj\Debug\Migrator.exe

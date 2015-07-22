@@ -1,0 +1,45 @@
+-- MySqlBackup.NET 2.0.4
+-- Dump Time: 2014-09-09 14:43:38
+-- --------------------------------------
+-- Server version 5.5.36 MySQL Community Server (GPL)
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+
+-- 
+-- Dumping views
+-- 
+
+ 
+DROP VIEW IF EXISTS `ispis_skladista`;
+CREATE ALGORITHM=UNDEFINED SQL SECURITY DEFINER VIEW `ispis_skladista` AS select `skladista`.`id_skladista` AS `id_skladista`,`skladista`.`naziv` AS `naziv`,`skladista`.`adresa` AS `adresa` from `skladista`;
+
+DROP TABLE IF EXISTS `ispis_vozila`;
+DROP VIEW IF EXISTS `ispis_vozila`;
+CREATE ALGORITHM=UNDEFINED SQL SECURITY DEFINER VIEW `ispis_vozila` AS select `vozilo`.`id_vozilo` AS `id_vozilo`,`vozilo`.`proizvodjac` AS `proizvodjac`,`vozilo`.`vrsta_vozila` AS `vrsta_vozila`,`vozilo`.`naziv` AS `naziv`,`vozilo`.`godina_proizvodnje` AS `godina_proizvodnje`,`vozilo`.`registracija` AS `registracija`,`vozilo`.`datum_registracije` AS `datum_registracije`,`vozilo`.`pocetno_stanje_km` AS `pocetno_stanje_km`,`vozilo`.`nosivost` AS `nosivost`,`vozilo`.`servisni_interval` AS `servisni_interval` from `vozilo`;
+
+DROP TABLE IF EXISTS `ispis_zaposlenika`;
+DROP VIEW IF EXISTS `ispis_zaposlenika`;
+CREATE ALGORITHM=UNDEFINED SQL SECURITY DEFINER VIEW `ispis_zaposlenika` AS select `zaposlenici`.`id_zaposlenici` AS `id_zaposlenici`,`zaposlenici`.`uloga` AS `uloga`,`zaposlenici`.`ime` AS `ime`,`zaposlenici`.`prezime` AS `prezime`,`zaposlenici`.`lozinka` AS `lozinka`,`zaposlenici`.`korisnicko_ime` AS `korisnicko_ime`,`zaposlenici`.`oib` AS `oib`,`zaposlenici`.`datum_zaposlenja` AS `datum_zaposlenja`,`zaposlenici`.`IBAN` AS `IBAN`,`zaposlenici`.`telefon` AS `telefon`,`zaposlenici`.`adresa` AS `adresa`,`zaposlenici`.`datum_rodjenja` AS `datum_rodjenja` from `zaposlenici`;
+
+
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+
+-- Dump completed on 2014-09-09 14:43:38
+-- Total time: 0:0:0:0:176 (d:h:m:s:ms)
